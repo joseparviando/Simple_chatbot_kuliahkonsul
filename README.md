@@ -163,11 +163,12 @@ Pastikan:
 
 ✅ Ngrok masih jalan (URL tidak expired)
 
-
-hasil projek http://t.me/KonsulKuliahBot
-
 ✅ Dialogflow Fulfillment URL sudah update ke URL Ngrok terbaru
 
 ✅ config.php punya DB credentials yang benar
 
 ✅ Tabel konsultasi sudah dibuat
+
+
+
+Hasil projek http://t.me/KonsulKuliahBot
